@@ -7,3 +7,24 @@
     color: hsl(228, 45%, 44%); 
 }
 
+.left-card img {
+    height: 500px;
+}
+
+.left-card {
+    float: left;
+}
+
+.right-card {
+    border: 1px solid black;
+    float: right;
+    display: flex;
+}
+
+.header, 
+.perfume-name, 
+.main-content, 
+.product-price, 
+.cart-button {
+    align-items: center;
+}
