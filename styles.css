@@ -18,7 +18,7 @@
 .right-card {
     border: 1px solid black;
     float: right;
-    display: flex;
+    /* display: flex; */
 }
 
 .header, 
